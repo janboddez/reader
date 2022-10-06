@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false,
+        "files.exclude": {
+            "**/vendor/**": true,
+        },
+        "files.watcherExclude": {
+            "**/vendor/**": true,
+        }
+    }
+}
